@@ -1,0 +1,41 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robot2051@gmail.com",
+    "longName": "MILKTIME",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/milk_icon.png",
+                "menuIcon": true,
+                "name": "MILK_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_check.png",
+                "name": "IMAGE_ACTION_ICON_CHECK",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "IMAGE_ACTION_ICON_MINUS",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_plus.png",
+                "name": "IMAGE_ACTION_ICON_PLUS",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "MILKTIME",
+    "uuid": "59757897-bfbf-4100-9c0e-24f0015a4096",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
